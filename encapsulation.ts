@@ -24,8 +24,8 @@ class Player { // creating a superclass of name Player, so we can encapsulate al
     }
 }
 
-const mario = new Player()
-mario.setHealth(10);
+const mario = new Player() // creating new Player named mario
+mario.setHealth(10);       
 mario.setHealth(-7);  
 mario.setSpeed(1);
 
