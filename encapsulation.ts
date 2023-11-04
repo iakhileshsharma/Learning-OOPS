@@ -1,4 +1,6 @@
-class Player {
+// learning encapsulation(OOPS concept)
+
+class Player { // creating a superclass of name Player, so we can encapsulate all the variables and methods in it.
     private health : number;
     private speed: number;
 
